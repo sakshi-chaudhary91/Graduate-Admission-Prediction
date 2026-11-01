@@ -23,7 +23,7 @@ A Deep Learning-based regression model built using **TensorFlow/Keras** and **Sc
 
 ## 📊 Dataset Overview
 
-The dataset used in this project is the **Graduate Admissions Dataset** from Kaggle. It contains various parameters considered crucial for application to Master's programs:
+The dataset used in this project is the **Graduate Admissions Dataset** from Kaggle. It contains various parameters considered crucial for application to Master's programs: 
 
 - **GRE Score** (out of 340)
 - **TOEFL Score** (out of 120)
