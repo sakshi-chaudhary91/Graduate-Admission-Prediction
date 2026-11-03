@@ -5,7 +5,7 @@ A Deep Learning-based regression model built using **TensorFlow/Keras** and **Sc
 ## 📌 Repository Description  
 
 > **Short Description :**  
-> *A Deep Learning regression pipeline using TensorFlow/Keras to predict graduate university admission probability based on GRE, TOEFL, CGPA, and profile strength.* 
+> *A Deep Learning regression pipeline using TensorFlow/Keras to predict graduate university admission probability based on GRE, TOEFL, CGPA, and profile strength.*  
 
 ---
 
