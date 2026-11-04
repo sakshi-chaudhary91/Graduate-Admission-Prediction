@@ -2,7 +2,7 @@
 
 A Deep Learning-based regression model built using **TensorFlow/Keras** and **Scikit-Learn** to predict a student's probability of gaining admission into a graduate program based on academic credentials and research profile. 
 
-## 📌 Repository Description   
+## 📌 Repository Description    
 
 > **Short Description :**  
 > *A Deep Learning regression pipeline using TensorFlow/Keras to predict graduate university admission probability based on GRE, TOEFL, CGPA, and profile strength.*  
