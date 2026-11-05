@@ -32,7 +32,7 @@ The dataset used in this project is the **Graduate Admissions Dataset** from Kag
 - **LOR** – Letter of Recommendation strength (out of 5)
 - **CGPA** (out of 10)
 - **Research Experience** (0 or 1)
-- **Chance of Admit** *(Target Variable)* – Ranges from 0 to 1
+- **Chance of Admit** *(Target Variable)* – Ranges from 0 to 1 
 
 ---
 
