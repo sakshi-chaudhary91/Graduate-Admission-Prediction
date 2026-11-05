@@ -9,7 +9,7 @@ A Deep Learning-based regression model built using **TensorFlow/Keras** and **Sc
 
 ---
 
-## 📂 Project Structure 
+## 📂 Project Structure  
 
 ├── dataset/
 │   └── Admission_Predict_Ver1.1.csv  
