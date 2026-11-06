@@ -1,4 +1,4 @@
-# Graduate Admission Predictor 🎓
+# Graduate Admission Predictor 🎓 
 
 A Deep Learning-based regression model built using **TensorFlow/Keras** and **Scikit-Learn** to predict a student's probability of gaining admission into a graduate program based on academic credentials and research profile.  
 
